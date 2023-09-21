@@ -3,7 +3,7 @@ title: Ali Marques # your site title
 author: Ali Marques # You :P
 description: > # Meta description of Homepage
   Data Science
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://alimarques.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
